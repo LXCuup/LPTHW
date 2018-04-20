@@ -15,7 +15,8 @@ happy_bday = ["Happy birthday to you",
 				 "So I'll stop right there"]
 
 bulls_on_parade = ["They rally around tha family",
-					"With pockets full of shells"]
+					"With pockets full of shells",
+                    "It a nice day."]
 
 happy = Song("ASDF")
 happy.sing_me_a_song()
