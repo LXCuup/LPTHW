@@ -12,7 +12,8 @@ happy_bday = Song(["Happy birthday to you",
                    "So I'll stop right there"])
 
 bulls_on_parade = Song(["They rally around tha family",
-                        "With pockets full of shells"])
+                        "With pockets full of shells",
+                        "lalalalalala"])
 
 happy_bday.sing_me_a_song()
 
